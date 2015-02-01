@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".SearchActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item
+        android:id="@+id/miSettings"
+        android:icon="@drawable/ic_action_settings"
+        android:title="@string/settings_icon_label"
+        app:showAsAction="always"
+        />
+
+</menu>
+<!-- From: file:/Users/daisych/Documents/Development/GridImageSearch/app/src/main/res/menu/menu_search.xml -->

@@ -1,0 +1,7 @@
+/Users/daisych/Documents/Development/GridImageSearch/app/build/intermediates/classes/debug
+/Users/daisych/Documents/Development/GridImageSearch/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-0b53aad5459312680644069f389fce3269182c7b.jar
+/Users/daisych/Documents/Development/GridImageSearch/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-8958a810f8a6e212ea4d2aca50752d1651995b2b.jar
+/Users/daisych/Documents/Development/GridImageSearch/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-7044ea9246293944ba2a9eafa856e2937b3206a1.jar
+/Users/daisych/Documents/Development/GridImageSearch/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2d3116fcba36e769551ae644ef94ef8a6fd08c56.jar
+/Users/daisych/Documents/Development/GridImageSearch/app/build/intermediates/pre-dexed/debug/classes-84da0d2a9833da84917d1cb12047ab4f3c8dd0b4.jar
+/Users/daisych/Documents/Development/GridImageSearch/app/build/intermediates/pre-dexed/debug/classes-4d840bbca5c6e75c83a37bbd89a205d71bb24424.jar
